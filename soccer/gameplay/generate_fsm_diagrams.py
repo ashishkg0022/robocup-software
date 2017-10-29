@@ -5,7 +5,7 @@ import os, errno
 import sys
 import traceback
 
-sys.path.append('../../run/lib')
+sys.path.append('../../run')
 import robocup
 
 
